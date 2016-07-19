@@ -39,7 +39,7 @@ namespace Task7
                 }
             }
             Console.WriteLine();
-            Console.WriteLine("--------------------------- INFO ABOUT ASSEMBLY--------------------------------------------");
+            Console.WriteLine("--------------------------- INFO ABOUT ASSEMBLY "+asm.FullName+" --------------------------------------------------------------------------------------------------------");
             Console.WriteLine();
 
         }
